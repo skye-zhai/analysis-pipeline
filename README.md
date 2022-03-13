@@ -1,11 +1,12 @@
 # Open pangenome of *Lactococcus lactis*
 In our study, we built a high-quality genome catalog of *Lactococcus lactis* combining isolate genomes and metagenome-assembled genomes (MAGs). Our approach to reconstructing genomes from the food metagenomes exploited metagenomic single-sample assembly, contig binning, and taxonomic annotation of genomes. Isolate genomes and human MAGs were downloaded from publicly available databases. After integrating these MAGs and isolate genomes of *L. lactis* together, genomes were then conducted strictly quality control to identity high-quality genomes (completeness >90% and contamination <5%).
 
-![image](https://github.com/skye-zhai/analysis-pipeline/blob/main/Pipeline.png)
+
 
 <div align="center">
-    <img src="https://github.com/skye-zhai/analysis-pipeline/blob/main/Pipeline.png" height="330" width="190">
+    <img src="https://github.com/skye-zhai/analysis-pipeline/blob/main/Pipeline.png" height="700" width="400">
 </div>
+
 
 
 
