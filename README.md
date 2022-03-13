@@ -3,6 +3,14 @@ In our study, we built a high-quality genome catalog of *Lactococcus lactis* com
 
 ![image](https://github.com/skye-zhai/analysis-pipeline/blob/main/Pipeline.png)
 
+<div align="center">
+    <img src="https://github.com/skye-zhai/analysis-pipeline/blob/main/Pipeline.png" height="330" width="190">
+</div>
+
+
+
+<div align="center">
+
 
 
 The comprehensive genome catalog was then used for various downstream analysis, like pangenome analysis, phylogenetic analysis, ANI calculation, functional enrichment analysis and so on. In the end, we generated a pangenome of *L. lactis* which was still open. These various analyses shed further light on unexpectedly high diversity within the taxon at both genome and gene levels and gave clues about its population structure and evolution. 
