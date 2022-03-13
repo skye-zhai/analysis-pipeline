@@ -4,8 +4,9 @@ In our study, we built a high-quality genome catalog of *Lactococcus lactis* com
 
 
 <div align="center">
-    <img src="https://github.com/skye-zhai/analysis-pipeline/blob/main/Pipeline.png" height="700" width="400">
+    <img src="https://github.com/skye-zhai/analysis-pipeline/blob/main/Pipeline.png" height="600" width="400">
 </div>
+
 
 
 
